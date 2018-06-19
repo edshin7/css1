@@ -1,0 +1,51 @@
+#container {
+    background-color: navy;
+    width: 970px;
+    padding: 5px;
+}
+
+#header {
+    background-color: rgba(255, 0, 0, 0.75);
+    display: block;
+}
+
+#nav {
+    background-color: rgba(100, 255, 240, 0.6);
+    width: 185px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#description {
+    background-color: rgba(20, 20, 20, 0.7);
+    width: 700px;
+    display: inline-block;
+    
+}
+
+#footer {
+    background-color: rgba(110, 110, 110, 0.85);
+}
+
+.box {
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+}
+
+p, h1, h2, ul, li {
+    color: rgb(240, 240, 240);
+    margin: 2px;
+}
+
+ul, li {
+    margin-left: 0px;
+}
+
+a {
+    color: rgb(100, 255, 200)
+}
+
+span {
+    color: rgb(170, 60, 220);
+}
